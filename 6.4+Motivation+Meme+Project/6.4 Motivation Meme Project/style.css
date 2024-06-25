@@ -6,9 +6,9 @@
 h1 {
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
-
+    text-transform: uppercase;
 }
 
 div {
-    width: 400px;
+    text-align: center;
 }
