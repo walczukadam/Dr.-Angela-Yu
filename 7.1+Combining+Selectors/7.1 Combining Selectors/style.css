@@ -10,3 +10,7 @@ div > .done {
 ul li {
     color: blue;
 }
+
+li.done {
+    color: seagreen;
+}
