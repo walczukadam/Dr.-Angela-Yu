@@ -1,4 +1,12 @@
 /* Write your code here: */
 h1, h2 {
+    color: blueviolet;
+}
+
+div > .done {
+    color: firebrick;
+}
+
+ul li {
     color: blue;
 }
