@@ -5,15 +5,49 @@
   <meta charset="UTF-8">
   <title>CSS Flag Project</title>
   <style>
-    /* Write your CSS Code here */
     .flag {
       height: 600px;
       width: 900px;
       background-color: rgb(206, 17, 38);
+      position: relative;
     }
+
+    /* .flag paragraph */
     
-    div > .flag {
-      back
+    .flag>p {
+      color: white;
+      text-align: center;
+    }
+
+
+    /* white circle */
+
+    .flag div div {
+      background-color: white;
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+      position: absolute;
+      top: 50px;
+      left: 350px
+    }
+
+    /* blue stripe */
+
+    .flag div {
+      background-color: rgb(0, 40, 104);
+      position: absolute;
+      width: 900px;
+      height: 300px;
+
+
+    }
+
+    /* circle paragraph */
+
+    .flag div p {
+      color: rgb(0, 40, 104);
+      text-align: center;
     }
   </style>
 </head>
