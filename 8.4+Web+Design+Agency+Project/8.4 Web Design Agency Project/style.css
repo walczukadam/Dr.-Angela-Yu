@@ -23,12 +23,21 @@ footer {
   float: left;
 }
 
+.card {
+  width: 40%;
+  margin-top: 200px;
+}
+
 .right {
   float: right;
-  width: 40%;
+ 
 }
 
 .left {
   float: left;
-  width: 40%;
+  
+}
+
+.creative {
+  color:midnightblue;
 }
