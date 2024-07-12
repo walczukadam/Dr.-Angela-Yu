@@ -21,11 +21,12 @@ footer {
 
 .tile-image {
   float: left;
+  margin-right: 50px;
+  height: 180px;
 }
 
 .card {
-  width: 40%;
-  margin-top: 200px;
+  width: 48%;
 }
 
 .right {
