@@ -46,6 +46,9 @@ footer {
 
 @media (max-width:428px) {
 
+  .tile-image{
+    margin-bottom: 15px;
+  }
   .card {
     margin-top: 40px;
     display: block;
